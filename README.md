@@ -39,4 +39,7 @@
 ### 话题相关微博数按小时统计
 ![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/topic_trend_with_explanation.png)
 
+### Top 10 认证用户中最频繁网暴陈丽君用户
+![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/freq_poster.png)
+
 
