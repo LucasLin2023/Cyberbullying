@@ -37,6 +37,6 @@
 ## Summary of Statistics
 截止2024年8月6日下午，共有2663名微博用户（仅统计原创微博）参与了对陈丽君的网暴，其中634名为微博认证用户，265名为”周深“相关认证用户。相关微博超过5万条(原创+转发）。
 ### 话题相关微博数按小时统计
-![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/topic_trend.png)
+![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/topic_trend_with_explanation.png)
 
 
