@@ -56,7 +56,7 @@
 ![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/topic_trend_with_explanation.png)
 
 话题 #陈丽君回应周深粉丝 与 话题 #陈丽君回复周深粉丝 每小时热度
-![alt text](https://github.comhttps://github.com/LucasLin2023/Cyberbullying/blob/main/response.png)
+![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/response.png)
 
 ### Top 10 认证用户中最频繁网暴陈丽君用户
 ![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/freq_poster.png)
