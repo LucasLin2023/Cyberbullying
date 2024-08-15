@@ -17,7 +17,7 @@
 
 截止8月8日凌晨网暴依然持续中, 且未有周深本人方面的回应。在本次事件中，根据本人统计，超过200名带有周深相关认证的微博用户带头参与了对越剧演员陈丽君的网暴，将此次事件定性为部分粉丝的不理智行为显然有失偏颇。 
 
-In 2023, Yue Opera actor Chen Lijun, who was still a non-celebrity at the time, was invited by the Zhejiang Satellite TV program Keep Running to film a promotional video in which she sang two operatic lines from a song called "Guang Liang"(meaning:brightness), which was originally written by Su Shi in this work "Ding Feng Bo", a well-known lyrics writer in Song Dynasty. The program clearly marked the original singer and confirmed the copyright. Chen Lijun herself also reposted the program clip on her Douyin and Bilibili accounts.
+In 2023, Yue Opera actor Chen Lijun, who was still a non-celebrity at the time, was invited by the Zhejiang Satellite TV program Keep Running to film a promotional video in which she sang two operatic lines from a song called "Guang Liang"(meaning:brightness), originally written by Su Shi in this work "Ding Feng Bo", a well-known lyrics writer in Song Dynasty. The program clearly marked the original singer and confirmed the copyright. Chen Lijun herself also reposted the program clip on her Douyin and Bilibili accounts.
 
 On August 4, 2024, Chen Lijun was invited to perform at the Hundred Flowers Awards in China. During her performance at 8:00 PM, she used these two operatic lines as a transition in her performance of "Fu Sheng Yi Bai"(meaning: a fleeting life）. At around 8:30 PM, Zhou Shen's fans began a large-scale cyberbullying campaign on Weibo using the hashtag "#陈丽君偷歌(Chen Lijun Stole the Song)#". At approximately 10:30 PM, Chen Lijun's fans responded to the accusations.
 
