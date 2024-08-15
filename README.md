@@ -23,7 +23,8 @@ On August 4, 2024, Chen Lijun was invited to perform at the Hundred Flowers Awar
 
 Chen Lijun herself responded on Weibo at 2:19 AM on August 5, 2024, stating that she had confirmed the copyright during the preparation of the program. She asked her fans not to attack others and acknowledged that Zhou Shen's fans were correct in being concerned about copyright. She then deleted the previous promotional video from Zhejiang Satellite TV from her Douyin account.
 
-Despite this, Zhou Shen's fans continued to post a large number of abusive and defamatory comments against Chen Lijun, including personal attacks against her as a woman. At 5:57 PM, Chen Lijun responded to a specific Zhou Shen fan named "Lighting the Lamp in My Heart_" who made the false claim that she had "repeatedly performed 'Brightness' and even renamed it 'Defending the Wind.'"
+Despite this, Zhou Shen's fans continued to post a large number of abusive and defamatory comments against Chen Lijun, including personal attacks against her as a woman. At 5:57 PM, Chen Lijun responded to a specific Zhou Shen fan who made the false claim that she had "repeatedly performed 'Guang Liang
+' and even renamed it 'Ding Feng Bo.'"
 
 At around 8:00 PM on August 5, the hashtag "#陈丽君回应周深粉丝(Chen Lijun Responds to Zhou Shen's Fans)#" trended on Weibo.
 
