@@ -32,7 +32,7 @@ On August 7, at approximately 10:00 PM, the hashtag "#陈丽君回复周深粉�
 As of the early hours of August 8, the cyberbullying was still ongoing, with no response from Zhou Shen himself. In this incident, over 200 Weibo users with Zhou Shen-related verifications were involved in leading the cyberbullying against Chen Lijun, making it clear that attributing the incident to a few irrational fans is a gross understatement.
 
 
-## 时间线回顾 (Timeline Review)
+## 时间线回顾 （Timeline Review）
 
 #### 周深粉丝使用 #陈丽君 偷歌 # 话题发表微博
 **2024-08-04 20:16:20** 照秋_反深代词神专（7521008698,超话粉丝大咖（周深超话））发表了相关词条的第一条微博（微博id：5063742607593987）
