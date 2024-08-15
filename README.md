@@ -1,7 +1,7 @@
 # 周深粉丝大规模网暴越剧演员陈丽君事件总结 
 
 
-## 事件概览：
+## 事件概览（Overiew of The Incident）：
 
 2023年当时仍是素人的越剧演员陈丽君应浙江卫视奔跑吧少年节目组邀约拍摄宣传片演唱《光亮》其中两句戏腔“莫听穿林打叶声，一蓑烟雨任平生”，节目组在视频中已经明确标注原唱并确认版权。陈丽君本人亦转载了节目片段至其本人的抖音和B站。
 
@@ -17,7 +17,22 @@
 
 截止8月8日凌晨网暴依然持续中, 且未有周深本人方面的回应。在本次事件中，根据本人统计，超过200名带有周深相关认证的微博用户带头参与了对越剧演员陈丽君的网暴，将此次事件定性为部分粉丝的不理智行为显然有失偏颇。 
 
-## 时间线回顾
+In 2023, Yue Opera actor Chen Lijun, who was still a non-celebrity at the time, was invited by the Zhejiang Satellite TV program Keep Running to film a promotional video in which she sang two operatic lines from a song called "Guang Liang"(meaning:brightness), which was originally written by Su Shi in this work "Ding Feng Bo", a well-known lyrics writer in Song Dynasty. The program clearly marked the original singer and confirmed the copyright. Chen Lijun herself also reposted the program clip on her Douyin and Bilibili accounts.
+
+On August 4, 2024, Chen Lijun was invited to perform at the Hundred Flowers Awards in China. During her performance at 8:00 PM, she used these two operatic lines as a transition in her performance of "Fu Sheng Yi Bai"(meaning: a fleeting life）. At around 8:30 PM, Zhou Shen's fans began a large-scale cyberbullying campaign on Weibo using the hashtag "#陈丽君偷歌(Chen Lijun Stole the Song)#". At approximately 10:30 PM, Chen Lijun's fans responded to the accusations.
+
+Chen Lijun herself responded on Weibo at 2:19 AM on August 5, 2024, stating that she had confirmed the copyright during the preparation of the program. She asked her fans not to attack others and acknowledged that Zhou Shen's fans were correct in being concerned about copyright. She then deleted the previous promotional video from Zhejiang Satellite TV from her Douyin account.
+
+Despite this, Zhou Shen's fans continued to post a large number of abusive and defamatory comments against Chen Lijun, including personal attacks against her as a woman. At 5:57 PM, Chen Lijun responded to a specific Zhou Shen fan named "Lighting the Lamp in My Heart_" who made the false claim that she had "repeatedly performed 'Brightness' and even renamed it 'Defending the Wind.'"
+
+At around 8:00 PM on August 5, the hashtag "#陈丽君回应周深粉丝(Chen Lijun Responds to Zhou Shen's Fans)#" trended on Weibo.
+
+On August 7, at approximately 10:00 PM, the hashtag "#陈丽君回复周深粉丝(Chen Lijun Replies to Zhou Shen's Fans)#" also trended.
+
+As of the early hours of August 8, the cyberbullying was still ongoing, with no response from Zhou Shen himself. In this incident, over 200 Weibo users with Zhou Shen-related verifications were involved in leading the cyberbullying against Chen Lijun, making it clear that attributing the incident to a few irrational fans is a gross understatement.
+
+
+## 时间线回顾 (Timeline Review)
 
 #### 周深粉丝使用 #陈丽君 偷歌 # 话题发表微博
 **2024-08-04 20:16:20** 照秋_反深代词神专（7521008698,超话粉丝大咖（周深超话））发表了相关词条的第一条微博（微博id：5063742607593987）
@@ -54,7 +69,7 @@
 >您好，我只在《奔跑吧少年》节目和昨晚的百花奖舞台使用过光亮戏腔，从未有改名的行为。转载了节目视频未标注原唱是我的问题，我认可并删除，但您说的不是事实，也请您慎言。
 
 
-## Summary of Statistics
+## 描述性统计 （Summary of Statistics）
 截止2024年8月8日21点，在 **#陈丽君 偷歌**话题下，共计272名周深相关认证用户发表了微博。合计转发 52803次，占所有传播次数中的71.0%；合计评论 15106条，合计点赞 210081次。
 
 在陈丽君本人的评论区内，共有57名周深相关认证用户发表了评论（共获得点赞36407次），37名使用类似文案（共获得点赞18228次）。
@@ -69,7 +84,7 @@
 ![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/freq_poster.png)
 
 
-## 相关法律法规
+## 相关法律法规 (Relevant Laws and Regulations)
 ◎【法释〔2013〕21号】  最高人民法院、最高人民检察院关于办理利用信息网络实施诽谤等刑事案件适用法律若干问题的解释（2013年9月10日起施行）
 
 第一条  具有下列情形之一的，应当认定为刑法第二百四十六条第一款规定的 “捏造事实诽谤他人”：
@@ -92,10 +107,10 @@
 
 **根据以上法释，共有24位新浪微博用户的单一微博转发次数超过500次，其中14位在微博简介中带有周深超话认证。**
 
-## 作者声明
+## 作者声明 （Author's Statement)
 本repo纯属个人用于记录此次网络事件，任何个人或团体未经本人许可不可擅自引用，或将截图等发布于任何社交媒体。
 
-## 联系作者
+## 联系作者 (Contact the Author)
 Email: lucas.lin.rotterdam@gmail.com 
 
-抖音号: dyn1b953boi0
+抖音号(Douyin): dyn1b953boi0
