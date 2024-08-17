@@ -92,7 +92,7 @@ As of the early hours of August 8, the cyberbullying was still ongoing, with no 
 
 
 ## 相关法律法规解读 (Relevant Laws and Regulations)
-详见 [关于造谣越剧演员陈丽君侵犯歌曲《光亮》的版权及”偷歌“的网承担相关法律责任分析](https://github.com/LucasLin2023/Cyberbullying/blob/main/%E9%80%A0%E8%B0%A3%E4%BA%8B%E4%BB%B6%E6%B3%95%E5%BE%8B%E5%88%86%E6%9E%90.pdf)
+详见 [关于造谣越剧演员陈丽君侵犯歌曲《光亮》的版权及”偷歌“的网民承担相关法律责任分析](https://github.com/LucasLin2023/Cyberbullying/blob/main/%E9%80%A0%E8%B0%A3%E4%BA%8B%E4%BB%B6%E6%B3%95%E5%BE%8B%E5%88%86%E6%9E%90.pdf)
 
 **根据刑法第二百四十六条规定，共有24位新浪微博用户的单一微博转发次数超过500次，其中14位在微博简介中带有周深超话认证。**
 
