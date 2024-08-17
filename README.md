@@ -82,13 +82,13 @@ As of the early hours of August 8, the cyberbullying was still ongoing, with no 
 在陈丽君本人的评论区内，共有57名周深相关认证用户发表了评论（共获得点赞36407次），37名使用类似文案（共获得点赞18228次）。
 
 ### 话题相关微博数按小时统计
-![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/topic_trend_with_explanation.png)
+![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/images/topic_trend_with_explanation.png)
 
 话题 #陈丽君回应周深粉丝 与 话题 #陈丽君回复周深粉丝 每小时热度
-![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/response_trend.png)
+![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/images/response_trend.png)
 
 ### Top 10 认证用户中最频繁网暴陈丽君用户（截止20240808）
-![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/freq_poster.png)
+![alt text](https://github.com/LucasLin2023/Cyberbullying/blob/main/images/freq_poster.png)
 
 
 ## 相关法律法规解读 (Relevant Laws and Regulations)
