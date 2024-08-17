@@ -72,6 +72,8 @@ As of the early hours of August 8, the cyberbullying was still ongoing, with no 
 
 ## 描述性统计 （Summary of Statistics）
 数据分析所使用代码/结果公开在 [20240809定风波事件分析](https://github.com/LucasLin2023/Cyberbullying/blob/main/20240809%E5%AE%9A%E9%A3%8E%E6%B3%A2%E4%BA%8B%E4%BB%B6_%E9%9A%8F%E6%89%8B%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
+
+
 截止2024年8月8日21点，在 **#陈丽君 偷歌**话题下，共计272名周深相关认证用户发表了微博。合计转发 52803次，占所有传播次数中的71.0%；合计评论 15106条，合计点赞 210081次。
 
 在陈丽君本人的评论区内，共有57名周深相关认证用户发表了评论（共获得点赞36407次），37名使用类似文案（共获得点赞18228次）。
