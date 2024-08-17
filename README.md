@@ -70,7 +70,10 @@ As of the early hours of August 8, the cyberbullying was still ongoing, with no 
 >您好，我只在《奔跑吧少年》节目和昨晚的百花奖舞台使用过光亮戏腔，从未有改名的行为。转载了节目视频未标注原唱是我的问题，我认可并删除，但您说的不是事实，也请您慎言。
 
 
-## 描述性统计 （Summary of Statistics）
+## 描述性统计和采样方法（Summary of Statistics and Sampling Method）
+
+本人于2024年8月4日23点开始对相关话题下微博进行爬虫，约每两小时重新爬取一次，直至2024年8月9日凌晨。
+
 数据分析所使用代码/结果公开在 [20240809定风波事件分析](https://github.com/LucasLin2023/Cyberbullying/blob/main/20240809%E5%AE%9A%E9%A3%8E%E6%B3%A2%E4%BA%8B%E4%BB%B6_%E9%9A%8F%E6%89%8B%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
 
 
