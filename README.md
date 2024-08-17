@@ -111,7 +111,7 @@ As of the early hours of August 8, the cyberbullying was still ongoing, with no 
 
 **根据以上法释，共有24位新浪微博用户的单一微博转发次数超过500次，其中14位在微博简介中带有周深超话认证。**
 
-## 作者声明 （Author's Statement)
+## 作者声明 (Author's Statement)
 本repo纯属个人用于记录此次网络事件，任何个人或团体未经本人许可不可擅自引用，或将截图等发布于任何社交媒体。
 
 ## 联系作者 (Contact the Author)
