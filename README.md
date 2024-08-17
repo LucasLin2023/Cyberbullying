@@ -97,9 +97,9 @@ As of the early hours of August 8, the cyberbullying was still ongoing, with no 
 **根据刑法第二百四十六条规定，共有24位新浪微博用户的单一微博转发次数超过500次，其中14位在微博简介中带有周深超话认证。**
 
 ## 作者声明 (Author's Statement)
-本Repo纯属个人用于记录此次网络事件，任何个人或团体未经本人许可不可擅自引用，或将截图等发布于任何社交媒体。
+本Repository纯属个人用于记录此次网络事件，仅授权于当事人法律顾问团队使用。其他任何个人或团体未经本人许可不可擅自引用，或将截图等发布于任何社交媒体。
 
 ## 联系作者 (Contact the Author)
 Email: lucas.lin.rotterdam@gmail.com 
 
-抖音号(Douyin): dyn1b953boi0
+抖音号(Douyin): dyn1b953boi0 
