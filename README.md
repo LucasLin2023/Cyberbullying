@@ -100,6 +100,8 @@ As of the early hours of August 8, the cyberbullying was still ongoing, with no 
 本Repository纯属个人用于记录此次网络事件，仅授权于当事人法律顾问团队使用。其他任何个人或团体未经本人许可不可擅自引用，或将截图等发布于任何社交媒体。
 
 ## 联系作者 (Contact the Author)
-Email: lucas.lin.rotterdam@gmail.com 
+Email: [lucas.lin.rotterdam@gmail.com](mailto:lucas.lin.rotterdam@gmail.com)
+
+Python code for scraping Weibo mblogs, comments, trending topics are available in a private repository, please mail the author if you would like to clone the code. 
 
 抖音号(Douyin): dyn1b953boi0 
